@@ -1,19 +1,791 @@
-NASTP Tenant Information
-
-To become a tenant:
-
-1. Submit an Expression of Interest (EOI).
-2. Complete the application.
-3. Evaluation by NASTP.
-4. Sign the tenancy agreement.
-
-Facilities:
-
-• Office space
-• High-speed internet
-• Meeting rooms
-• Incubation support
-
-Contact:
-Email: info@nastp.pk
-Phone: +92-51-XXXXXXX
+{
+  "metadata": {
+    "title": "NASTP (National Aerospace Science & Technology Park) Chatbot Knowledge Base",
+    "description": "Q&A knowledge base built from NASTP's official public information (nastp.gov.pk, nastp.pk) and STZA's official published materials (stza.gov.pk), plus verifiable news coverage. Entries marked as needing confirmation flag facts that are not publicly published in full detail and should be verified directly with NASTP/STZA before being treated as final/authoritative.",
+    "total_entries": 127,
+    "categories": [
+      "About NASTP",
+      "Contact Information",
+      "Departments & Leadership",
+      "FAQs",
+      "Facilities",
+      "Locations",
+      "Mission & Vision",
+      "News & Events",
+      "STZA & Incentives",
+      "Tenant Application"
+    ],
+    "sources": [
+      "https://nastp.gov.pk",
+      "https://www.nastp.pk",
+      "https://www.stza.gov.pk",
+      "https://en.wikipedia.org/wiki/National_Aerospace_Science_%26_Technology_Park",
+      "https://en.wikipedia.org/wiki/Special_Technology_Zones_Authority"
+    ],
+    "last_updated": "2026-08-01"
+  },
+  "entries": [
+    {
+      "id": 1,
+      "category": "About NASTP",
+      "question": "What is NASTP?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 2,
+      "category": "About NASTP",
+      "question": "What does NASTP stand for?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 3,
+      "category": "About NASTP",
+      "question": "Can you explain what NASTP is?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 4,
+      "category": "About NASTP",
+      "question": "Tell me about the National Aerospace Science & Technology Park.",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 5,
+      "category": "About NASTP",
+      "question": "What is the National Aerospace Science and Technology Park?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 6,
+      "category": "About NASTP",
+      "question": "Who runs NASTP?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 7,
+      "category": "About NASTP",
+      "question": "Which organization leads NASTP?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 8,
+      "category": "About NASTP",
+      "question": "Is NASTP a government project?",
+      "answer": "NASTP (National Aerospace Science & Technology Park) is a Pakistani aerospace, cyberspace and IT technology park established and led by the Pakistan Air Force. It has been approved by the Government of Pakistan as 'a project of strategic national importance,' and it brings together industry, academia and government to build a comprehensive Design, Development & Innovation (DD&I) ecosystem in the aviation, space, IT and cyber domains."
+    },
+    {
+      "id": 9,
+      "category": "About NASTP",
+      "question": "When was NASTP established / inaugurated?",
+      "answer": "NASTP was formally inaugurated by then Prime Minister Shehbaz Sharif at PAF Base Nur Khan in Rawalpindi on 4 August 2023."
+    },
+    {
+      "id": 10,
+      "category": "About NASTP",
+      "question": "When did NASTP open?",
+      "answer": "NASTP was formally inaugurated by then Prime Minister Shehbaz Sharif at PAF Base Nur Khan in Rawalpindi on 4 August 2023."
+    },
+    {
+      "id": 11,
+      "category": "About NASTP",
+      "question": "What is NASTP's founding date?",
+      "answer": "NASTP was formally inaugurated by then Prime Minister Shehbaz Sharif at PAF Base Nur Khan in Rawalpindi on 4 August 2023."
+    },
+    {
+      "id": 12,
+      "category": "About NASTP",
+      "question": "Who founded NASTP?",
+      "answer": "NASTP was founded and is led by the Pakistan Air Force (PAF)."
+    },
+    {
+      "id": 13,
+      "category": "About NASTP",
+      "question": "Which institution established NASTP?",
+      "answer": "NASTP was founded and is led by the Pakistan Air Force (PAF)."
+    },
+    {
+      "id": 14,
+      "category": "About NASTP",
+      "question": "What sectors does NASTP focus on?",
+      "answer": "NASTP's ecosystem spans aviation/aerospace, space, IT, cyber security, artificial intelligence, robotics, computing & big data, fintech, gaming/animation and related emerging technologies."
+    },
+    {
+      "id": 15,
+      "category": "About NASTP",
+      "question": "What industries/domains does NASTP work in?",
+      "answer": "NASTP's ecosystem spans aviation/aerospace, space, IT, cyber security, artificial intelligence, robotics, computing & big data, fintech, gaming/animation and related emerging technologies."
+    },
+    {
+      "id": 16,
+      "category": "About NASTP",
+      "question": "What technology areas does NASTP cover?",
+      "answer": "NASTP's ecosystem spans aviation/aerospace, space, IT, cyber security, artificial intelligence, robotics, computing & big data, fintech, gaming/animation and related emerging technologies."
+    },
+    {
+      "id": 17,
+      "category": "About NASTP",
+      "question": "Why was NASTP created?",
+      "answer": "NASTP was created to give Pakistan a comprehensive ecosystem — design centers, R&D setups, incubators, training institutes and industrial zones — that lets industry, academia and government work together to develop aerospace, space, IT and cyber capability domestically, reducing reliance on imported technology and creating high-value jobs and exports."
+    },
+    {
+      "id": 18,
+      "category": "About NASTP",
+      "question": "What problem does NASTP solve?",
+      "answer": "NASTP was created to give Pakistan a comprehensive ecosystem — design centers, R&D setups, incubators, training institutes and industrial zones — that lets industry, academia and government work together to develop aerospace, space, IT and cyber capability domestically, reducing reliance on imported technology and creating high-value jobs and exports."
+    },
+    {
+      "id": 19,
+      "category": "About NASTP",
+      "question": "What is the purpose of NASTP?",
+      "answer": "NASTP was created to give Pakistan a comprehensive ecosystem — design centers, R&D setups, incubators, training institutes and industrial zones — that lets industry, academia and government work together to develop aerospace, space, IT and cyber capability domestically, reducing reliance on imported technology and creating high-value jobs and exports."
+    },
+    {
+      "id": 20,
+      "category": "About NASTP",
+      "question": "Is NASTP linked to the Pakistan Air Force?",
+      "answer": "Yes. NASTP is a Pakistan Air Force-led initiative. It is headed by the Chief of the Air Staff, with regional Directors General overseeing each park/chapter."
+    },
+    {
+      "id": 21,
+      "category": "About NASTP",
+      "question": "Does the Pakistan Air Force manage NASTP?",
+      "answer": "Yes. NASTP is a Pakistan Air Force-led initiative. It is headed by the Chief of the Air Staff, with regional Directors General overseeing each park/chapter."
+    },
+    {
+      "id": 22,
+      "category": "About NASTP",
+      "question": "What does 'project of strategic national importance' mean for NASTP?",
+      "answer": "The Government of Pakistan has formally designated NASTP as a project of strategic national importance, reflecting its priority status in national technology and economic policy."
+    },
+    {
+      "id": 23,
+      "category": "About NASTP",
+      "question": "Is NASTP officially recognized by the Government of Pakistan?",
+      "answer": "The Government of Pakistan has formally designated NASTP as a project of strategic national importance, reflecting its priority status in national technology and economic policy."
+    },
+    {
+      "id": 24,
+      "category": "About NASTP",
+      "question": "Which international companies have offices or MoUs with NASTP?",
+      "answer": "Several international and domestic organizations have set up offices or signed MoUs with NASTP, including Turkish Aerospace Industries (TAI) and Baykar from Turkey, and other partners such as Mastercard, Galaxy Racer, Shorooq Partners (UAE) and Chinese firms SEDA and ZBRA have been reported in connection with the wider NASTP/STZ ecosystem. For the current, complete partner list, check NASTP's official News & Events page."
+    },
+    {
+      "id": 25,
+      "category": "About NASTP",
+      "question": "Has NASTP partnered with any foreign companies?",
+      "answer": "Several international and domestic organizations have set up offices or signed MoUs with NASTP, including Turkish Aerospace Industries (TAI) and Baykar from Turkey, and other partners such as Mastercard, Galaxy Racer, Shorooq Partners (UAE) and Chinese firms SEDA and ZBRA have been reported in connection with the wider NASTP/STZ ecosystem. For the current, complete partner list, check NASTP's official News & Events page."
+    },
+    {
+      "id": 26,
+      "category": "Mission & Vision",
+      "question": "What is NASTP's mission?",
+      "answer": "NASTP's mission is to foster research, innovation and development in aviation, space, IT and cyber technologies, products and services, in order to generate maximum social, economic, security and scientific dividends for Pakistan."
+    },
+    {
+      "id": 27,
+      "category": "Mission & Vision",
+      "question": "What is NASTP trying to achieve?",
+      "answer": "NASTP's mission is to foster research, innovation and development in aviation, space, IT and cyber technologies, products and services, in order to generate maximum social, economic, security and scientific dividends for Pakistan."
+    },
+    {
+      "id": 28,
+      "category": "Mission & Vision",
+      "question": "State NASTP's mission statement.",
+      "answer": "NASTP's mission is to foster research, innovation and development in aviation, space, IT and cyber technologies, products and services, in order to generate maximum social, economic, security and scientific dividends for Pakistan."
+    },
+    {
+      "id": 29,
+      "category": "Mission & Vision",
+      "question": "What is NASTP's vision?",
+      "answer": "NASTP's vision is to become one of the best Aerospace, Cyber & IT clusters in the world, transforming the national landscape through design, R&D and innovation centers for emerging and disruptive technologies."
+    },
+    {
+      "id": 30,
+      "category": "Mission & Vision",
+      "question": "What is NASTP's long-term vision?",
+      "answer": "NASTP's vision is to become one of the best Aerospace, Cyber & IT clusters in the world, transforming the national landscape through design, R&D and innovation centers for emerging and disruptive technologies."
+    },
+    {
+      "id": 31,
+      "category": "Mission & Vision",
+      "question": "State NASTP's vision statement.",
+      "answer": "NASTP's vision is to become one of the best Aerospace, Cyber & IT clusters in the world, transforming the national landscape through design, R&D and innovation centers for emerging and disruptive technologies."
+    },
+    {
+      "id": 32,
+      "category": "Mission & Vision",
+      "question": "What is the difference between NASTP's mission and vision?",
+      "answer": "Mission (what NASTP does day to day): NASTP's mission is to foster research, innovation and development in aviation, space, IT and cyber technologies, products and services, in order to generate maximum social, economic, security and scientific dividends for Pakistan. Vision (the long-term aspiration): NASTP's vision is to become one of the best Aerospace, Cyber & IT clusters in the world, transforming the national landscape through design, R&D and innovation centers for emerging and disruptive technologies."
+    },
+    {
+      "id": 33,
+      "category": "Locations",
+      "question": "Where is NASTP located?",
+      "answer": "NASTP operates as a network of regional 'chapters' across Pakistan: NASTP Alpha (Rawalpindi, federal region HQ), NASTP Kamra (Kamra/Attock, the flagship aerospace cluster and national HQ), NASTP Delta (Lahore, Punjab regional HQ), NASTP Silicon / Silicon Valley (Karachi, southern region HQ), and NASTP Kharian (a city-level IT park in Kharian, Punjab)."
+    },
+    {
+      "id": 34,
+      "category": "Locations",
+      "question": "What are NASTP's locations?",
+      "answer": "NASTP operates as a network of regional 'chapters' across Pakistan: NASTP Alpha (Rawalpindi, federal region HQ), NASTP Kamra (Kamra/Attock, the flagship aerospace cluster and national HQ), NASTP Delta (Lahore, Punjab regional HQ), NASTP Silicon / Silicon Valley (Karachi, southern region HQ), and NASTP Kharian (a city-level IT park in Kharian, Punjab)."
+    },
+    {
+      "id": 35,
+      "category": "Locations",
+      "question": "How many NASTP parks/chapters are there?",
+      "answer": "NASTP operates as a network of regional 'chapters' across Pakistan: NASTP Alpha (Rawalpindi, federal region HQ), NASTP Kamra (Kamra/Attock, the flagship aerospace cluster and national HQ), NASTP Delta (Lahore, Punjab regional HQ), NASTP Silicon / Silicon Valley (Karachi, southern region HQ), and NASTP Kharian (a city-level IT park in Kharian, Punjab)."
+    },
+    {
+      "id": 36,
+      "category": "Locations",
+      "question": "List all NASTP sites in Pakistan.",
+      "answer": "NASTP operates as a network of regional 'chapters' across Pakistan: NASTP Alpha (Rawalpindi, federal region HQ), NASTP Kamra (Kamra/Attock, the flagship aerospace cluster and national HQ), NASTP Delta (Lahore, Punjab regional HQ), NASTP Silicon / Silicon Valley (Karachi, southern region HQ), and NASTP Kharian (a city-level IT park in Kharian, Punjab)."
+    },
+    {
+      "id": 37,
+      "category": "Locations",
+      "question": "Where is NASTP Alpha located?",
+      "answer": "NASTP Alpha is located within PAF Base Nur Khan, Chaklala Cantonment, Rawalpindi, and serves as the regional headquarters for Pakistan's federal region. It hosts major Pakistan Air Force design and R&D setups in aircraft, space, radar, wireless/communications, simulators, cyber, IT, computing & big data, software development and AI, plus incubators such as NICAT (aerospace) and Siber Koza (a Cyber/IT incubator run jointly with Turkish company CryptTech)."
+    },
+    {
+      "id": 38,
+      "category": "Locations",
+      "question": "What is NASTP Alpha?",
+      "answer": "NASTP Alpha is located within PAF Base Nur Khan, Chaklala Cantonment, Rawalpindi, and serves as the regional headquarters for Pakistan's federal region. It hosts major Pakistan Air Force design and R&D setups in aircraft, space, radar, wireless/communications, simulators, cyber, IT, computing & big data, software development and AI, plus incubators such as NICAT (aerospace) and Siber Koza (a Cyber/IT incubator run jointly with Turkish company CryptTech)."
+    },
+    {
+      "id": 39,
+      "category": "Locations",
+      "question": "Tell me about NASTP Alpha in Rawalpindi.",
+      "answer": "NASTP Alpha is located within PAF Base Nur Khan, Chaklala Cantonment, Rawalpindi, and serves as the regional headquarters for Pakistan's federal region. It hosts major Pakistan Air Force design and R&D setups in aircraft, space, radar, wireless/communications, simulators, cyber, IT, computing & big data, software development and AI, plus incubators such as NICAT (aerospace) and Siber Koza (a Cyber/IT incubator run jointly with Turkish company CryptTech)."
+    },
+    {
+      "id": 40,
+      "category": "Locations",
+      "question": "Where is NASTP Kamra located?",
+      "answer": "NASTP Kamra, in Attock district, is NASTP's flagship aerospace cluster and its national/international headquarters. It is built around the Pakistan Aeronautical Complex (PAC), PAF Base Minhas, the Aviation and Aerospace Campus of Air University, an Industrial Zone and an R&D Zone, and hosts facilities like the Aerospace Design and Innovation Center (ADIC) and Aerospace Manufacturing and Skill Center (AMSC). It is roughly a 45-minute drive from Islamabad International Airport."
+    },
+    {
+      "id": 41,
+      "category": "Locations",
+      "question": "What is NASTP Kamra?",
+      "answer": "NASTP Kamra, in Attock district, is NASTP's flagship aerospace cluster and its national/international headquarters. It is built around the Pakistan Aeronautical Complex (PAC), PAF Base Minhas, the Aviation and Aerospace Campus of Air University, an Industrial Zone and an R&D Zone, and hosts facilities like the Aerospace Design and Innovation Center (ADIC) and Aerospace Manufacturing and Skill Center (AMSC). It is roughly a 45-minute drive from Islamabad International Airport."
+    },
+    {
+      "id": 42,
+      "category": "Locations",
+      "question": "Tell me about the aerospace cluster at Kamra.",
+      "answer": "NASTP Kamra, in Attock district, is NASTP's flagship aerospace cluster and its national/international headquarters. It is built around the Pakistan Aeronautical Complex (PAC), PAF Base Minhas, the Aviation and Aerospace Campus of Air University, an Industrial Zone and an R&D Zone, and hosts facilities like the Aerospace Design and Innovation Center (ADIC) and Aerospace Manufacturing and Skill Center (AMSC). It is roughly a 45-minute drive from Islamabad International Airport."
+    },
+    {
+      "id": 43,
+      "category": "Locations",
+      "question": "Where is NASTP Delta located?",
+      "answer": "NASTP Delta is located in a prime cantonment zone of Lahore and serves as the regional headquarters for Punjab province. It is positioned as NASTP's IT hub, focused on IT, cyber, computing, fintech and training companies, with links to institutions like PITB, LUMS, University of the Punjab, University of Lahore and UET Lahore. It houses ecosystem partners such as COLABS (co-working space), CEGA (gaming and animation incubation hub) and NIIT (training, affiliated with Air University)."
+    },
+    {
+      "id": 44,
+      "category": "Locations",
+      "question": "What is NASTP Delta?",
+      "answer": "NASTP Delta is located in a prime cantonment zone of Lahore and serves as the regional headquarters for Punjab province. It is positioned as NASTP's IT hub, focused on IT, cyber, computing, fintech and training companies, with links to institutions like PITB, LUMS, University of the Punjab, University of Lahore and UET Lahore. It houses ecosystem partners such as COLABS (co-working space), CEGA (gaming and animation incubation hub) and NIIT (training, affiliated with Air University)."
+    },
+    {
+      "id": 45,
+      "category": "Locations",
+      "question": "Tell me about NASTP in Lahore.",
+      "answer": "NASTP Delta is located in a prime cantonment zone of Lahore and serves as the regional headquarters for Punjab province. It is positioned as NASTP's IT hub, focused on IT, cyber, computing, fintech and training companies, with links to institutions like PITB, LUMS, University of the Punjab, University of Lahore and UET Lahore. It houses ecosystem partners such as COLABS (co-working space), CEGA (gaming and animation incubation hub) and NIIT (training, affiliated with Air University)."
+    },
+    {
+      "id": 46,
+      "category": "Locations",
+      "question": "Where is NASTP Silicon / NASTP Silicon Valley located?",
+      "answer": "NASTP Silicon (also referred to as NASTP Silicon 1 / Silicon Valley) is located on Main Shahrah-e-Faisal in Faisal Cantonment, Karachi, Pakistan's financial hub. It spans about 7 acres with roughly 200,000 sq ft of built-up area and over 125,000 sq ft of rentable space, and serves as the regional headquarters for southern Pakistan. It hosts PAF design and R&D setups in simulators, AR/VR, robotics, space, wireless & communications, cyber, IT, computing & big data, software development and AI, along with training and aviation services including NIEST."
+    },
+    {
+      "id": 47,
+      "category": "Locations",
+      "question": "What is NASTP Silicon 1?",
+      "answer": "NASTP Silicon (also referred to as NASTP Silicon 1 / Silicon Valley) is located on Main Shahrah-e-Faisal in Faisal Cantonment, Karachi, Pakistan's financial hub. It spans about 7 acres with roughly 200,000 sq ft of built-up area and over 125,000 sq ft of rentable space, and serves as the regional headquarters for southern Pakistan. It hosts PAF design and R&D setups in simulators, AR/VR, robotics, space, wireless & communications, cyber, IT, computing & big data, software development and AI, along with training and aviation services including NIEST."
+    },
+    {
+      "id": 48,
+      "category": "Locations",
+      "question": "Tell me about NASTP in Karachi.",
+      "answer": "NASTP Silicon (also referred to as NASTP Silicon 1 / Silicon Valley) is located on Main Shahrah-e-Faisal in Faisal Cantonment, Karachi, Pakistan's financial hub. It spans about 7 acres with roughly 200,000 sq ft of built-up area and over 125,000 sq ft of rentable space, and serves as the regional headquarters for southern Pakistan. It hosts PAF design and R&D setups in simulators, AR/VR, robotics, space, wireless & communications, cyber, IT, computing & big data, software development and AI, along with training and aviation services including NIEST."
+    },
+    {
+      "id": 49,
+      "category": "Locations",
+      "question": "Where is NASTP Kharian located?",
+      "answer": "NASTP Kharian is a city-level IT park located in Kharian, Punjab. It has partnered with the Punjab Information Technology Board (PITB) to bring incubation and co-working facilities to the site."
+    },
+    {
+      "id": 50,
+      "category": "Locations",
+      "question": "What is NASTP Kharian?",
+      "answer": "NASTP Kharian is a city-level IT park located in Kharian, Punjab. It has partnered with the Punjab Information Technology Board (PITB) to bring incubation and co-working facilities to the site."
+    },
+    {
+      "id": 51,
+      "category": "Locations",
+      "question": "Which NASTP location is the national headquarters?",
+      "answer": "NASTP Kamra (Kamra/Attock) is described as NASTP's flagship aerospace cluster and national/international headquarters, while NASTP Alpha in Rawalpindi is the federal-region regional HQ."
+    },
+    {
+      "id": 52,
+      "category": "Locations",
+      "question": "Which NASTP site is the flagship location?",
+      "answer": "NASTP Kamra (Kamra/Attock) is described as NASTP's flagship aerospace cluster and national/international headquarters, while NASTP Alpha in Rawalpindi is the federal-region regional HQ."
+    },
+    {
+      "id": 53,
+      "category": "Locations",
+      "question": "How do I choose which NASTP location to apply to?",
+      "answer": "It generally depends on your sector and target region: aerospace/manufacturing-heavy ventures are well suited to NASTP Kamra; IT, cyber, AI and R&D-focused federal-region companies often look at NASTP Alpha (Rawalpindi); Punjab/IT-and-fintech-focused companies often choose NASTP Delta (Lahore); and companies wanting a base in Pakistan's financial hub typically choose NASTP Silicon (Karachi). Contact NASTP directly to discuss which chapter best fits your business."
+    },
+    {
+      "id": 54,
+      "category": "Locations",
+      "question": "Which NASTP park should my company set up in?",
+      "answer": "It generally depends on your sector and target region: aerospace/manufacturing-heavy ventures are well suited to NASTP Kamra; IT, cyber, AI and R&D-focused federal-region companies often look at NASTP Alpha (Rawalpindi); Punjab/IT-and-fintech-focused companies often choose NASTP Delta (Lahore); and companies wanting a base in Pakistan's financial hub typically choose NASTP Silicon (Karachi). Contact NASTP directly to discuss which chapter best fits your business."
+    },
+    {
+      "id": 55,
+      "category": "Facilities",
+      "question": "What facilities does NASTP offer?",
+      "answer": "Across its chapters, NASTP offers serviced/private offices, co-working spaces and dedicated desks, conference and meeting rooms, auditoriums and event spaces, incubation centers, R&D labs and simulators, training and certification institutes, high-security/military-grade site security, power backup, parking, and (at some sites) MRO and aviation-logistics facilities."
+    },
+    {
+      "id": 56,
+      "category": "Facilities",
+      "question": "What kind of infrastructure is available at NASTP?",
+      "answer": "Across its chapters, NASTP offers serviced/private offices, co-working spaces and dedicated desks, conference and meeting rooms, auditoriums and event spaces, incubation centers, R&D labs and simulators, training and certification institutes, high-security/military-grade site security, power backup, parking, and (at some sites) MRO and aviation-logistics facilities."
+    },
+    {
+      "id": 57,
+      "category": "Facilities",
+      "question": "What amenities do NASTP parks have?",
+      "answer": "Across its chapters, NASTP offers serviced/private offices, co-working spaces and dedicated desks, conference and meeting rooms, auditoriums and event spaces, incubation centers, R&D labs and simulators, training and certification institutes, high-security/military-grade site security, power backup, parking, and (at some sites) MRO and aviation-logistics facilities."
+    },
+    {
+      "id": 58,
+      "category": "Facilities",
+      "question": "Does NASTP have co-working spaces?",
+      "answer": "Yes. NASTP hosts dedicated co-working operators at several chapters — for example Daftarkhwan | Alpha in Rawalpindi and COLABS Cantt in Lahore's NASTP Delta — offering flexible desks, dedicated desks, serviced private offices and custom-built offices for larger teams, plus day-pass options."
+    },
+    {
+      "id": 59,
+      "category": "Facilities",
+      "question": "Can I get a shared desk or private office at NASTP?",
+      "answer": "Yes. NASTP hosts dedicated co-working operators at several chapters — for example Daftarkhwan | Alpha in Rawalpindi and COLABS Cantt in Lahore's NASTP Delta — offering flexible desks, dedicated desks, serviced private offices and custom-built offices for larger teams, plus day-pass options."
+    },
+    {
+      "id": 60,
+      "category": "Facilities",
+      "question": "Does NASTP have incubation centers?",
+      "answer": "Yes, several. NASTP Alpha hosts NICAT (NIC for Aerospace Technologies), a vertical aerospace incubator, and Siber Koza, an international Cyber/IT incubation center run jointly with Turkish company CryptTech. NASTP Delta hosts CEGA, a gaming and animation incubation and training hub. NASTP Kamra hosts the Aerospace Design and Innovation Center (ADIC)."
+    },
+    {
+      "id": 61,
+      "category": "Facilities",
+      "question": "What incubators operate within NASTP?",
+      "answer": "Yes, several. NASTP Alpha hosts NICAT (NIC for Aerospace Technologies), a vertical aerospace incubator, and Siber Koza, an international Cyber/IT incubation center run jointly with Turkish company CryptTech. NASTP Delta hosts CEGA, a gaming and animation incubation and training hub. NASTP Kamra hosts the Aerospace Design and Innovation Center (ADIC)."
+    },
+    {
+      "id": 62,
+      "category": "Facilities",
+      "question": "Does NASTP have training or certification institutes?",
+      "answer": "Yes. NASTP Silicon hosts NIEST, a training and aviation-services institute; NASTP Delta hosts NIIT (affiliated with Air University) for corporate-linked certifications; and NASTP Kamra hosts the Aerospace Manufacturing and Skill Center (AMSC) for specialized aerospace training and internships."
+    },
+    {
+      "id": 63,
+      "category": "Facilities",
+      "question": "Can I get technical training at NASTP?",
+      "answer": "Yes. NASTP Silicon hosts NIEST, a training and aviation-services institute; NASTP Delta hosts NIIT (affiliated with Air University) for corporate-linked certifications; and NASTP Kamra hosts the Aerospace Manufacturing and Skill Center (AMSC) for specialized aerospace training and internships."
+    },
+    {
+      "id": 64,
+      "category": "Facilities",
+      "question": "Does NASTP have MRO (Maintenance, Repair & Overhaul) facilities?",
+      "answer": "NASTP Kamra, as the flagship aerospace cluster, is designed to include MRO facilities for commercial and military aircraft, alongside design, manufacturing, product lifecycle management (PLM), aviation logistics, and air-show/expo capability."
+    },
+    {
+      "id": 65,
+      "category": "Facilities",
+      "question": "Can aircraft maintenance be done at NASTP?",
+      "answer": "NASTP Kamra, as the flagship aerospace cluster, is designed to include MRO facilities for commercial and military aircraft, alongside design, manufacturing, product lifecycle management (PLM), aviation logistics, and air-show/expo capability."
+    },
+    {
+      "id": 66,
+      "category": "Facilities",
+      "question": "Can I hold an event, expo or conference at NASTP?",
+      "answer": "Yes, NASTP hosts expos, conferences, seminars and corporate events at several chapters. NASTP Silicon (Karachi), for instance, offers dedicated space for expos and conferences, and the NASTP website has a 'Book NASTP Arena' page for booking event space directly."
+    },
+    {
+      "id": 67,
+      "category": "Facilities",
+      "question": "Does NASTP have event/expo space?",
+      "answer": "Yes, NASTP hosts expos, conferences, seminars and corporate events at several chapters. NASTP Silicon (Karachi), for instance, offers dedicated space for expos and conferences, and the NASTP website has a 'Book NASTP Arena' page for booking event space directly."
+    },
+    {
+      "id": 68,
+      "category": "Facilities",
+      "question": "How do I book NASTP Arena?",
+      "answer": "Yes, NASTP hosts expos, conferences, seminars and corporate events at several chapters. NASTP Silicon (Karachi), for instance, offers dedicated space for expos and conferences, and the NASTP website has a 'Book NASTP Arena' page for booking event space directly."
+    },
+    {
+      "id": 69,
+      "category": "Facilities",
+      "question": "What security measures are in place at NASTP sites?",
+      "answer": "Several NASTP chapters, such as Alpha (inside PAF Base Nur Khan) and Kamra (co-located with PAF Base Minhas), are located within or adjacent to Pakistan Air Force installations and are described as offering military-grade security for tenant companies."
+    },
+    {
+      "id": 70,
+      "category": "Facilities",
+      "question": "Is NASTP secure?",
+      "answer": "Several NASTP chapters, such as Alpha (inside PAF Base Nur Khan) and Kamra (co-located with PAF Base Minhas), are located within or adjacent to Pakistan Air Force installations and are described as offering military-grade security for tenant companies."
+    },
+    {
+      "id": 71,
+      "category": "STZA & Incentives",
+      "question": "What is STZA?",
+      "answer": "STZA (Special Technology Zones Authority) is a Federal Government body under Pakistan's Cabinet Division, created under the Special Technology Zones Authority Act, 2021, to build, license and regulate Special Technology Zones (STZs) across the country. NASTP's various chapters (e.g. NASTP Alpha, NASTP Delta, NASTP Kamra, NASTP Silicon Valley) operate as, or in partnership with, STZA-designated Special Technology Zones, which is what allows tenant companies there to apply for STZA incentives."
+    },
+    {
+      "id": 72,
+      "category": "STZA & Incentives",
+      "question": "What does STZA stand for?",
+      "answer": "STZA (Special Technology Zones Authority) is a Federal Government body under Pakistan's Cabinet Division, created under the Special Technology Zones Authority Act, 2021, to build, license and regulate Special Technology Zones (STZs) across the country. NASTP's various chapters (e.g. NASTP Alpha, NASTP Delta, NASTP Kamra, NASTP Silicon Valley) operate as, or in partnership with, STZA-designated Special Technology Zones, which is what allows tenant companies there to apply for STZA incentives."
+    },
+    {
+      "id": 73,
+      "category": "STZA & Incentives",
+      "question": "How is STZA related to NASTP?",
+      "answer": "STZA (Special Technology Zones Authority) is a Federal Government body under Pakistan's Cabinet Division, created under the Special Technology Zones Authority Act, 2021, to build, license and regulate Special Technology Zones (STZs) across the country. NASTP's various chapters (e.g. NASTP Alpha, NASTP Delta, NASTP Kamra, NASTP Silicon Valley) operate as, or in partnership with, STZA-designated Special Technology Zones, which is what allows tenant companies there to apply for STZA incentives."
+    },
+    {
+      "id": 74,
+      "category": "STZA & Incentives",
+      "question": "What incentives are available to companies at NASTP?",
+      "answer": "Companies that obtain a Zone Enterprise License from STZA within an NASTP Special Technology Zone can access incentives under the STZA Act, which have been reported to include: a 10-year exemption from income/profits tax, a 10-year property tax exemption, exemption from customs duty on import of capital goods, and flexible foreign-exchange arrangements (including special forex accounts and fully repatriable investment, profit and dividend flows). Incentives are subject to the specific provisions of the STZA Act and its amending tax laws, and are granted at STZA's discretion after licensing — always confirm the current incentive package directly with STZA (stza.gov.pk) or NASTP."
+    },
+    {
+      "id": 75,
+      "category": "STZA & Incentives",
+      "question": "What tax benefits do NASTP tenants get?",
+      "answer": "Companies that obtain a Zone Enterprise License from STZA within an NASTP Special Technology Zone can access incentives under the STZA Act, which have been reported to include: a 10-year exemption from income/profits tax, a 10-year property tax exemption, exemption from customs duty on import of capital goods, and flexible foreign-exchange arrangements (including special forex accounts and fully repatriable investment, profit and dividend flows). Incentives are subject to the specific provisions of the STZA Act and its amending tax laws, and are granted at STZA's discretion after licensing — always confirm the current incentive package directly with STZA (stza.gov.pk) or NASTP."
+    },
+    {
+      "id": 76,
+      "category": "STZA & Incentives",
+      "question": "Why should a company set up at NASTP instead of elsewhere?",
+      "answer": "Companies that obtain a Zone Enterprise License from STZA within an NASTP Special Technology Zone can access incentives under the STZA Act, which have been reported to include: a 10-year exemption from income/profits tax, a 10-year property tax exemption, exemption from customs duty on import of capital goods, and flexible foreign-exchange arrangements (including special forex accounts and fully repatriable investment, profit and dividend flows). Incentives are subject to the specific provisions of the STZA Act and its amending tax laws, and are granted at STZA's discretion after licensing — always confirm the current incentive package directly with STZA (stza.gov.pk) or NASTP."
+    },
+    {
+      "id": 77,
+      "category": "STZA & Incentives",
+      "question": "How long do STZA tax incentives last?",
+      "answer": "STZA has stated that its incentives are decade-long (broadly reported as a 10-year tax exemption plus a further tax rebate period) and, per STZA's own published materials, are applicable to newly-licensed zone enterprises until 30 June 2035. Because tax law can change, confirm the current validity period with STZA before relying on it."
+    },
+    {
+      "id": 78,
+      "category": "STZA & Incentives",
+      "question": "Until when are STZA incentives valid?",
+      "answer": "STZA has stated that its incentives are decade-long (broadly reported as a 10-year tax exemption plus a further tax rebate period) and, per STZA's own published materials, are applicable to newly-licensed zone enterprises until 30 June 2035. Because tax law can change, confirm the current validity period with STZA before relying on it."
+    },
+    {
+      "id": 79,
+      "category": "STZA & Incentives",
+      "question": "Do STZA incentives apply to provinces as well as the federal government?",
+      "answer": "Yes. According to STZA's published FAQs, tax incentives granted under an STZA license apply in all STZs established across Pakistan, and individual provinces may also offer additional tax incentives of their own."
+    },
+    {
+      "id": 80,
+      "category": "STZA & Incentives",
+      "question": "Are STZA tax incentives valid across all provinces?",
+      "answer": "Yes. According to STZA's published FAQs, tax incentives granted under an STZA license apply in all STZs established across Pakistan, and individual provinces may also offer additional tax incentives of their own."
+    },
+    {
+      "id": 81,
+      "category": "STZA & Incentives",
+      "question": "What is a Zone Enterprise License?",
+      "answer": "A Zone Enterprise License is the license STZA issues to a company operating within a licensed Special Technology Zone (such as an NASTP chapter), which qualifies that company for STZA's tax and regulatory incentives. Applications are made to STZA; NASTP tenants (e.g. through co-working partners like Daftarkhwan | Alpha) can be guided through this application as part of setting up in the zone."
+    },
+    {
+      "id": 82,
+      "category": "STZA & Incentives",
+      "question": "How do I get an STZA Zone Enterprise License?",
+      "answer": "A Zone Enterprise License is the license STZA issues to a company operating within a licensed Special Technology Zone (such as an NASTP chapter), which qualifies that company for STZA's tax and regulatory incentives. Applications are made to STZA; NASTP tenants (e.g. through co-working partners like Daftarkhwan | Alpha) can be guided through this application as part of setting up in the zone."
+    },
+    {
+      "id": 83,
+      "category": "STZA & Incentives",
+      "question": "Is the STZA tax exemption a blanket exemption on all taxes?",
+      "answer": "No. STZA's own FAQ clarifies that the Act provides specific tax exemptions only, not a blanket exemption from every type of tax, and that incentives only take effect once corresponding amendments are made to the relevant tax laws (e.g. the Income Tax Ordinance, Sales Tax Act)."
+    },
+    {
+      "id": 84,
+      "category": "STZA & Incentives",
+      "question": "Does an STZA license exempt a company from every kind of tax?",
+      "answer": "No. STZA's own FAQ clarifies that the Act provides specific tax exemptions only, not a blanket exemption from every type of tax, and that incentives only take effect once corresponding amendments are made to the relevant tax laws (e.g. the Income Tax Ordinance, Sales Tax Act)."
+    },
+    {
+      "id": 85,
+      "category": "Tenant Application",
+      "question": "How do I apply to become a tenant / set up my company at NASTP?",
+      "answer": "Generally, becoming an NASTP tenant involves: (1) choosing which NASTP chapter/location fits your sector, (2) contacting NASTP directly (via the Contact Us page or the relevant chapter's co-working/management partner) to discuss space and requirements, (3) if you want STZA tax incentives, applying separately to STZA for a Zone Enterprise License. Because exact document checklists and approval steps can change and are set by NASTP/STZA, please confirm the current step-by-step process directly with NASTP's team — this chatbot should not guess at specifics NASTP hasn't published."
+    },
+    {
+      "id": 86,
+      "category": "Tenant Application",
+      "question": "How can my company join NASTP?",
+      "answer": "Generally, becoming an NASTP tenant involves: (1) choosing which NASTP chapter/location fits your sector, (2) contacting NASTP directly (via the Contact Us page or the relevant chapter's co-working/management partner) to discuss space and requirements, (3) if you want STZA tax incentives, applying separately to STZA for a Zone Enterprise License. Because exact document checklists and approval steps can change and are set by NASTP/STZA, please confirm the current step-by-step process directly with NASTP's team — this chatbot should not guess at specifics NASTP hasn't published."
+    },
+    {
+      "id": 87,
+      "category": "Tenant Application",
+      "question": "What is the process for setting up a business at NASTP?",
+      "answer": "Generally, becoming an NASTP tenant involves: (1) choosing which NASTP chapter/location fits your sector, (2) contacting NASTP directly (via the Contact Us page or the relevant chapter's co-working/management partner) to discuss space and requirements, (3) if you want STZA tax incentives, applying separately to STZA for a Zone Enterprise License. Because exact document checklists and approval steps can change and are set by NASTP/STZA, please confirm the current step-by-step process directly with NASTP's team — this chatbot should not guess at specifics NASTP hasn't published."
+    },
+    {
+      "id": 88,
+      "category": "Tenant Application",
+      "question": "What kind of companies can set up at NASTP?",
+      "answer": "NASTP's ecosystem is built around aviation/aerospace, space, IT, cybersecurity, artificial intelligence, robotics, computing & big data, fintech, gaming/animation and related technology sectors, and its published tenants include technology companies, startups, R&D organizations, training/skill-development providers, and infrastructure developers. Exact eligibility criteria for a specific chapter should be confirmed with NASTP directly, since requirements can differ by site and are set by NASTP/STZA rather than published in a single universal checklist."
+    },
+    {
+      "id": 89,
+      "category": "Tenant Application",
+      "question": "Who is eligible to become an NASTP tenant?",
+      "answer": "NASTP's ecosystem is built around aviation/aerospace, space, IT, cybersecurity, artificial intelligence, robotics, computing & big data, fintech, gaming/animation and related technology sectors, and its published tenants include technology companies, startups, R&D organizations, training/skill-development providers, and infrastructure developers. Exact eligibility criteria for a specific chapter should be confirmed with NASTP directly, since requirements can differ by site and are set by NASTP/STZA rather than published in a single universal checklist."
+    },
+    {
+      "id": 90,
+      "category": "Tenant Application",
+      "question": "What sectors are prioritized for NASTP tenancy?",
+      "answer": "NASTP's ecosystem is built around aviation/aerospace, space, IT, cybersecurity, artificial intelligence, robotics, computing & big data, fintech, gaming/animation and related technology sectors, and its published tenants include technology companies, startups, R&D organizations, training/skill-development providers, and infrastructure developers. Exact eligibility criteria for a specific chapter should be confirmed with NASTP directly, since requirements can differ by site and are set by NASTP/STZA rather than published in a single universal checklist."
+    },
+    {
+      "id": 91,
+      "category": "Tenant Application",
+      "question": "What documents do I need to apply for space at NASTP?",
+      "answer": "NASTP has not published a single universal document checklist online, so this chatbot won't guess at one. Typically, technology-park and STZA tenant applications require basic company registration documents (e.g. SECP incorporation certificate), an NTN/tax registration, a business plan or company profile, and — if applying for STZA incentives — the Zone Enterprise License application form. Please contact NASTP directly for the current, official document list for the chapter you're interested in."
+    },
+    {
+      "id": 92,
+      "category": "Tenant Application",
+      "question": "What is the required-documents checklist for an NASTP tenant application?",
+      "answer": "NASTP has not published a single universal document checklist online, so this chatbot won't guess at one. Typically, technology-park and STZA tenant applications require basic company registration documents (e.g. SECP incorporation certificate), an NTN/tax registration, a business plan or company profile, and — if applying for STZA incentives — the Zone Enterprise License application form. Please contact NASTP directly for the current, official document list for the chapter you're interested in."
+    },
+    {
+      "id": 93,
+      "category": "Tenant Application",
+      "question": "Can foreign companies set up at NASTP?",
+      "answer": "Yes — NASTP has actively attracted foreign companies and investment; examples include Turkish Aerospace Industries (TAI) and Baykar establishing offices within NASTP. STZA-linked incentives also include flexible foreign-exchange arrangements aimed at facilitating foreign investment. Contact NASTP or STZA directly for the specific requirements that apply to foreign entities."
+    },
+    {
+      "id": 94,
+      "category": "Tenant Application",
+      "question": "Is NASTP open to international investors?",
+      "answer": "Yes — NASTP has actively attracted foreign companies and investment; examples include Turkish Aerospace Industries (TAI) and Baykar establishing offices within NASTP. STZA-linked incentives also include flexible foreign-exchange arrangements aimed at facilitating foreign investment. Contact NASTP or STZA directly for the specific requirements that apply to foreign entities."
+    },
+    {
+      "id": 95,
+      "category": "Tenant Application",
+      "question": "How long does it take to get approved as an NASTP tenant?",
+      "answer": "NASTP has not published a standard public timeline for tenant approval, and it likely varies by chapter, space type (e.g. co-working desk vs. dedicated facility) and whether an STZA Zone Enterprise License is also being sought. Please ask NASTP's team directly for a timeline based on your specific application."
+    },
+    {
+      "id": 96,
+      "category": "Tenant Application",
+      "question": "What is the typical timeline for setting up at NASTP?",
+      "answer": "NASTP has not published a standard public timeline for tenant approval, and it likely varies by chapter, space type (e.g. co-working desk vs. dedicated facility) and whether an STZA Zone Enterprise License is also being sought. Please ask NASTP's team directly for a timeline based on your specific application."
+    },
+    {
+      "id": 97,
+      "category": "Departments & Leadership",
+      "question": "Who leads NASTP?",
+      "answer": "NASTP as a whole is headed by the Chief of the Air Staff of the Pakistan Air Force (its President), with a Deputy President and Directors General overseeing individual regional chapters. For example, NASTP Silicon's Board of Directors (as listed on NASTP's site) has included a DG NASTP Silicon along with Directors for Technology, ICT and Support. Because leadership roles rotate, check NASTP's official website for current office-holders."
+    },
+    {
+      "id": 98,
+      "category": "Departments & Leadership",
+      "question": "Who is in charge of NASTP?",
+      "answer": "NASTP as a whole is headed by the Chief of the Air Staff of the Pakistan Air Force (its President), with a Deputy President and Directors General overseeing individual regional chapters. For example, NASTP Silicon's Board of Directors (as listed on NASTP's site) has included a DG NASTP Silicon along with Directors for Technology, ICT and Support. Because leadership roles rotate, check NASTP's official website for current office-holders."
+    },
+    {
+      "id": 99,
+      "category": "Departments & Leadership",
+      "question": "What is NASTP's leadership structure?",
+      "answer": "NASTP as a whole is headed by the Chief of the Air Staff of the Pakistan Air Force (its President), with a Deputy President and Directors General overseeing individual regional chapters. For example, NASTP Silicon's Board of Directors (as listed on NASTP's site) has included a DG NASTP Silicon along with Directors for Technology, ICT and Support. Because leadership roles rotate, check NASTP's official website for current office-holders."
+    },
+    {
+      "id": 100,
+      "category": "Departments & Leadership",
+      "question": "What are the main functional departments within an NASTP chapter?",
+      "answer": "Based on published leadership listings, NASTP chapters are commonly organized around functions such as Technology, ICT, and Support/Operations, in addition to the Director General's office. Exact departmental structures can differ between chapters — confirm current org-structure details with NASTP directly."
+    },
+    {
+      "id": 101,
+      "category": "Departments & Leadership",
+      "question": "How is an NASTP park organized internally?",
+      "answer": "Based on published leadership listings, NASTP chapters are commonly organized around functions such as Technology, ICT, and Support/Operations, in addition to the Director General's office. Exact departmental structures can differ between chapters — confirm current org-structure details with NASTP directly."
+    },
+    {
+      "id": 102,
+      "category": "News & Events",
+      "question": "Where can I find NASTP news and events?",
+      "answer": "NASTP publishes news and event updates on its official website's 'News & Events' section (nastp.gov.pk and nastp.pk), including delegation visits, audits, launches and partnership announcements, along with an Image and Video Gallery."
+    },
+    {
+      "id": 103,
+      "category": "News & Events",
+      "question": "How do I stay updated on NASTP announcements?",
+      "answer": "NASTP publishes news and event updates on its official website's 'News & Events' section (nastp.gov.pk and nastp.pk), including delegation visits, audits, launches and partnership announcements, along with an Image and Video Gallery."
+    },
+    {
+      "id": 104,
+      "category": "News & Events",
+      "question": "What recent events has NASTP hosted?",
+      "answer": "Recent items publicised by NASTP have included international audits at NASTP Kharian (e.g. a Flyon Aero audit and an Italian Civil Aviation audit in 2025), visits by foreign delegations and attachés, a federal minister's visit to NICAT at NASTP, and the soft launch of an NASTP Alpha extension. For the latest news, check NASTP's official News & Events page, since new items are added regularly."
+    },
+    {
+      "id": 105,
+      "category": "News & Events",
+      "question": "Give examples of recent NASTP news.",
+      "answer": "Recent items publicised by NASTP have included international audits at NASTP Kharian (e.g. a Flyon Aero audit and an Italian Civil Aviation audit in 2025), visits by foreign delegations and attachés, a federal minister's visit to NICAT at NASTP, and the soft launch of an NASTP Alpha extension. For the latest news, check NASTP's official News & Events page, since new items are added regularly."
+    },
+    {
+      "id": 106,
+      "category": "News & Events",
+      "question": "Has NASTP hosted foreign delegations?",
+      "answer": "Yes. NASTP's news page has reported visits from foreign officials and delegations, including a British Deputy High Commissioner's visit and a Russian delegation visit, among others."
+    },
+    {
+      "id": 107,
+      "category": "News & Events",
+      "question": "Have any diplomats visited NASTP?",
+      "answer": "Yes. NASTP's news page has reported visits from foreign officials and delegations, including a British Deputy High Commissioner's visit and a Russian delegation visit, among others."
+    },
+    {
+      "id": 108,
+      "category": "Contact Information",
+      "question": "How do I contact NASTP?",
+      "answer": "NASTP's general/head office contact (as published on the NASTP Silicon/Karachi site) is: Address – NASTP, Main Shahrah-e-Faisal, Faisal Cantonment, Karachi; Email – info@nastp.pk; Phone – +92-21-111-444-111. NASTP's official websites are nastp.gov.pk and nastp.pk. Note that each regional chapter (Alpha/Rawalpindi, Delta/Lahore, Kamra/Attock, Kharian) may have its own specific site contact — confirm with the chapter you're interested in, or use the 'Contact Us' form on the official site."
+    },
+    {
+      "id": 109,
+      "category": "Contact Information",
+      "question": "What is NASTP's contact information?",
+      "answer": "NASTP's general/head office contact (as published on the NASTP Silicon/Karachi site) is: Address – NASTP, Main Shahrah-e-Faisal, Faisal Cantonment, Karachi; Email – info@nastp.pk; Phone – +92-21-111-444-111. NASTP's official websites are nastp.gov.pk and nastp.pk. Note that each regional chapter (Alpha/Rawalpindi, Delta/Lahore, Kamra/Attock, Kharian) may have its own specific site contact — confirm with the chapter you're interested in, or use the 'Contact Us' form on the official site."
+    },
+    {
+      "id": 110,
+      "category": "Contact Information",
+      "question": "What is NASTP's email address?",
+      "answer": "NASTP's general/head office contact (as published on the NASTP Silicon/Karachi site) is: Address – NASTP, Main Shahrah-e-Faisal, Faisal Cantonment, Karachi; Email – info@nastp.pk; Phone – +92-21-111-444-111. NASTP's official websites are nastp.gov.pk and nastp.pk. Note that each regional chapter (Alpha/Rawalpindi, Delta/Lahore, Kamra/Attock, Kharian) may have its own specific site contact — confirm with the chapter you're interested in, or use the 'Contact Us' form on the official site."
+    },
+    {
+      "id": 111,
+      "category": "Contact Information",
+      "question": "What is NASTP's phone number?",
+      "answer": "NASTP's general/head office contact (as published on the NASTP Silicon/Karachi site) is: Address – NASTP, Main Shahrah-e-Faisal, Faisal Cantonment, Karachi; Email – info@nastp.pk; Phone – +92-21-111-444-111. NASTP's official websites are nastp.gov.pk and nastp.pk. Note that each regional chapter (Alpha/Rawalpindi, Delta/Lahore, Kamra/Attock, Kharian) may have its own specific site contact — confirm with the chapter you're interested in, or use the 'Contact Us' form on the official site."
+    },
+    {
+      "id": 112,
+      "category": "Contact Information",
+      "question": "What is NASTP's official website?",
+      "answer": "NASTP's official websites are https://nastp.gov.pk and https://www.nastp.pk."
+    },
+    {
+      "id": 113,
+      "category": "Contact Information",
+      "question": "Where can I find NASTP online?",
+      "answer": "NASTP's official websites are https://nastp.gov.pk and https://www.nastp.pk."
+    },
+    {
+      "id": 114,
+      "category": "Contact Information",
+      "question": "How do I register as a visitor or member on the NASTP website?",
+      "answer": "The NASTP website (nastp.pk) offers both Visitor Registration and Member Registration options in its top navigation, along with a Login/Create Account option for the customer portal."
+    },
+    {
+      "id": 115,
+      "category": "Contact Information",
+      "question": "How do I contact STZA (Special Technology Zones Authority)?",
+      "answer": "STZA's official website is https://www.stza.gov.pk, which includes information on zones, licensing, incentives and policies, plus contact details for direct enquiries about zone enterprise licensing."
+    },
+    {
+      "id": 116,
+      "category": "FAQs",
+      "question": "Is NASTP the same as STZA?",
+      "answer": "No, they are distinct but linked organizations. NASTP is a Pakistan Air Force-led technology park project (the physical parks/chapters and their R&D, incubation and industrial ecosystem). STZA is the separate federal government authority that designates and regulates Special Technology Zones nationwide and grants the tax/regulatory incentives available to licensed zone enterprises. Several NASTP chapters function as, or are seeking designation as, STZA-licensed Special Technology Zones."
+    },
+    {
+      "id": 117,
+      "category": "FAQs",
+      "question": "What's the difference between NASTP and STZA?",
+      "answer": "No, they are distinct but linked organizations. NASTP is a Pakistan Air Force-led technology park project (the physical parks/chapters and their R&D, incubation and industrial ecosystem). STZA is the separate federal government authority that designates and regulates Special Technology Zones nationwide and grants the tax/regulatory incentives available to licensed zone enterprises. Several NASTP chapters function as, or are seeking designation as, STZA-licensed Special Technology Zones."
+    },
+    {
+      "id": 118,
+      "category": "FAQs",
+      "question": "Is NASTP only for the military or defense sector?",
+      "answer": "No — while NASTP is led by the Pakistan Air Force and includes defense-related aerospace R&D, its parks are explicitly designed to host civilian technology, IT, cyber, fintech and training companies alongside academia and government partners, as part of a broader industry ecosystem."
+    },
+    {
+      "id": 119,
+      "category": "FAQs",
+      "question": "Can civilian/private companies join NASTP?",
+      "answer": "No — while NASTP is led by the Pakistan Air Force and includes defense-related aerospace R&D, its parks are explicitly designed to host civilian technology, IT, cyber, fintech and training companies alongside academia and government partners, as part of a broader industry ecosystem."
+    },
+    {
+      "id": 120,
+      "category": "FAQs",
+      "question": "Does NASTP work with universities?",
+      "answer": "Yes. NASTP partners with a number of universities depending on the chapter — for example NUST, Air University, IST, PIEAS, FAST, GIKI and COMSATS near NASTP Alpha/Kamra, and LUMS, University of the Punjab, University of Lahore and UET Lahore near NASTP Delta. Air University also runs an Aviation and Aerospace Campus co-located at NASTP Kamra."
+    },
+    {
+      "id": 121,
+      "category": "FAQs",
+      "question": "Which universities are linked to NASTP?",
+      "answer": "Yes. NASTP partners with a number of universities depending on the chapter — for example NUST, Air University, IST, PIEAS, FAST, GIKI and COMSATS near NASTP Alpha/Kamra, and LUMS, University of the Punjab, University of Lahore and UET Lahore near NASTP Delta. Air University also runs an Aviation and Aerospace Campus co-located at NASTP Kamra."
+    },
+    {
+      "id": 122,
+      "category": "FAQs",
+      "question": "What does 'DD&I' or 'DRD&I' ecosystem mean in relation to NASTP?",
+      "answer": "It refers to NASTP's core purpose: a Design, (Research,) Development & Innovation ecosystem — the combined set of R&D centers, incubators, training institutes, industrial zones and partnerships that let ideas move from design through development to commercial/operational innovation."
+    },
+    {
+      "id": 123,
+      "category": "FAQs",
+      "question": "Can startups join NASTP, or is it only for large companies?",
+      "answer": "Startups are an explicit part of NASTP's ecosystem — incubators such as NICAT (aerospace), Siber Koza (cyber/IT) and CEGA (gaming/animation), plus co-working operators like Daftarkhwan | Alpha and COLABS, are specifically geared toward startups and small teams alongside larger corporate tenants."
+    },
+    {
+      "id": 124,
+      "category": "FAQs",
+      "question": "Does NASTP support startups?",
+      "answer": "Startups are an explicit part of NASTP's ecosystem — incubators such as NICAT (aerospace), Siber Koza (cyber/IT) and CEGA (gaming/animation), plus co-working operators like Daftarkhwan | Alpha and COLABS, are specifically geared toward startups and small teams alongside larger corporate tenants."
+    },
+    {
+      "id": 125,
+      "category": "FAQs",
+      "question": "Is NASTP related to the National Aerospace City Kamra (NACK)?",
+      "answer": "Yes — NASTP Kamra is co-located with the National Aerospace City Kamra (NACK) project, alongside the Pakistan Aeronautical Complex, PAF Base Minhas and PAF Flight Test Center, forming part of the same broader aerospace cluster in Attock district."
+    },
+    {
+      "id": 126,
+      "category": "FAQs",
+      "question": "How is NASTP funded?",
+      "answer": "NASTP combines Pakistan Air Force and government backing with private-sector and international investment/partnerships (e.g. co-working operators, incubation partners, and MoUs with domestic and foreign companies). Exact funding structures are not fully published for public reference — for detailed investment/funding information, contact NASTP directly."
+    },
+    {
+      "id": 127,
+      "category": "FAQs",
+      "question": "Who invests in NASTP?",
+      "answer": "NASTP combines Pakistan Air Force and government backing with private-sector and international investment/partnerships (e.g. co-working operators, incubation partners, and MoUs with domestic and foreign companies). Exact funding structures are not fully published for public reference — for detailed investment/funding information, contact NASTP directly."
+    }
+  ]
+}
