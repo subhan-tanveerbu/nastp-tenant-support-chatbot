@@ -1,0 +1,196 @@
+===================================================
+NASTP TENANT SUPPORT KNOWLEDGE BASE
+===================================================
+This document contains approved information for the
+NASTP Tenant Support Chatbot. Only information written
+here should be used to answer tenant questions.
+
+---------------------------------------------------
+1. ABOUT NASTP
+---------------------------------------------------
+The National Aerospace Science & Technology Park (NASTP)
+is a technology park designed to bring together aerospace,
+IT, cybersecurity, and emerging technology companies under
+one collaborative ecosystem. NASTP provides infrastructure,
+office space, and a supportive environment for startups,
+established companies, and research organizations to grow
+and innovate together.
+
+NASTP is organized into themed "Chapters," each focused on
+a specific technology domain, and offers shared facilities,
+business support services, and a community of like-minded
+tenants and partners.
+
+---------------------------------------------------
+2. TENANT ONBOARDING
+---------------------------------------------------
+To become a NASTP tenant, an organization must complete the
+following general steps:
+
+Step 1: Submit an Expression of Interest (EOI) through the
+        official NASTP EOI portal or by contacting the
+        NASTP business development team.
+
+Step 2: Attend an initial consultation/interview with the
+        NASTP onboarding team to discuss space requirements,
+        chapter alignment, and business objectives.
+
+Step 3: Receive a formal offer letter outlining available
+        space, chapter placement, and commercial terms.
+
+Step 4: Sign the tenancy agreement and complete the required
+        documentation (company registration, NOCs, and
+        compliance paperwork as applicable).
+
+Step 5: Complete onboarding orientation, receive access
+        credentials, and move into the allocated space.
+
+The typical onboarding process takes a few weeks depending
+on space availability and documentation completeness.
+
+---------------------------------------------------
+3. EXPRESSION OF INTEREST (EOI)
+---------------------------------------------------
+The Expression of Interest (EOI) is the first formal step
+for any organization interested in becoming a NASTP tenant.
+
+What the EOI requires:
+- Company name and registration details
+- Brief company profile and core business activities
+- Preferred chapter (e.g., Aerospace, IT, Cybersecurity, AI)
+- Estimated team size and space requirements
+- Contact person details (name, email, phone)
+
+How to submit an EOI:
+- Online: through the official NASTP tenant portal
+- Email: submit the EOI form to the NASTP business
+  development team at the contact details listed in
+  the Contact Information section below
+
+After submission, the NASTP team typically reviews EOIs
+and responds within 5-10 business days.
+
+---------------------------------------------------
+4. FACILITIES
+---------------------------------------------------
+NASTP tenants have access to the following facilities:
+
+- Fully furnished office spaces and dedicated desks
+- High-speed internet and secure network infrastructure
+- Meeting rooms and conference facilities (bookable)
+- Shared co-working and collaboration zones
+- On-site cafeteria and refreshment areas
+- 24/7 security and access-controlled entry
+- Parking facilities for tenants and visitors
+- Video conferencing and presentation equipment
+- Server/data room access (subject to chapter and plan)
+- Recreational and break-out areas
+
+---------------------------------------------------
+5. CHAPTERS
+---------------------------------------------------
+NASTP is organized into specialized "Chapters" that group
+tenants by technology domain. Current chapters include:
+
+- Aerospace Chapter: companies working in aviation,
+  aerospace manufacturing, and related engineering fields.
+
+- Information Technology (IT) Chapter: software houses,
+  SaaS companies, and digital product teams.
+
+- Cybersecurity Chapter: companies focused on security
+  products, threat intelligence, and consulting.
+
+- Artificial Intelligence & Emerging Tech Chapter: startups
+  and teams working on AI, machine learning, robotics, and
+  other emerging technologies.
+
+- Research & Academia Chapter: research institutions and
+  academic partners collaborating on applied technology
+  projects.
+
+Each chapter has its own community events, networking
+sessions, and domain-specific support resources.
+
+---------------------------------------------------
+6. TENANT SERVICES
+---------------------------------------------------
+NASTP provides the following support services to tenants:
+
+- IT and network support helpdesk
+- Facilities management and maintenance requests
+- Business development and partnership facilitation
+- Access to industry networking events and workshops
+- Assistance with regulatory and compliance matters
+- Marketing and visibility support (directory listing,
+  featured tenant spotlights)
+- Mentorship and advisory sessions (subject to availability)
+
+Tenants can raise service requests through the NASTP tenant
+portal or by contacting the support team directly.
+
+---------------------------------------------------
+7. FREQUENTLY ASKED QUESTIONS (FAQs)
+---------------------------------------------------
+Q: How long does the onboarding process take?
+A: It typically takes a few weeks from EOI submission to
+   move-in, depending on space availability and how quickly
+   documentation is completed.
+
+Q: Can I change my chapter after joining?
+A: Chapter changes are possible but must be requested through
+   the tenant services team and are subject to space
+   availability.
+
+Q: Are meeting rooms free to use?
+A: Meeting rooms can be booked by tenants; usage policies and
+   any applicable limits are shared during onboarding
+   orientation.
+
+Q: Is parking available for visitors?
+A: Yes, visitor parking is available, subject to space and
+   security registration at the entrance.
+
+Q: Who do I contact for IT issues?
+A: Tenants should contact the on-site IT/network support
+   helpdesk or submit a request through the tenant portal.
+
+Q: Can startups with small teams apply?
+A: Yes, NASTP welcomes startups of varying sizes. Space
+   options are available for both small teams and larger
+   organizations.
+
+---------------------------------------------------
+8. CONTACT INFORMATION
+---------------------------------------------------
+NASTP Tenant Support Team
+Email: tenantsupport@nastp.example.com
+Phone: +92-51-000-0000
+Business Hours: Monday - Friday, 9:00 AM - 5:00 PM
+
+NASTP Business Development (for EOI inquiries)
+Email: eoi@nastp.example.com
+
+Note: The contact details above are placeholders for
+demonstration purposes and should be replaced with
+official NASTP contact information before production use.
+
+---------------------------------------------------
+9. OUT-OF-SCOPE POLICY
+---------------------------------------------------
+This chatbot only answers questions related to NASTP tenant
+onboarding, EOI, facilities, chapters, tenant services, FAQs,
+and contact information, based strictly on the content in
+this knowledge base.
+
+The chatbot must NOT answer questions about:
+- Topics unrelated to NASTP tenant support
+- Personal, medical, legal, or financial advice
+- Confidential, internal, or unpublished company information
+- Anything not explicitly documented in this file
+
+For any question outside this scope, or where the answer is
+not available in this document, the chatbot must respond:
+
+"I don't have approved information about that. Please contact
+the NASTP support team."
