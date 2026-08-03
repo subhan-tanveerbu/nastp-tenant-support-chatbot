@@ -12,7 +12,7 @@ Responsibilities:
 from openai import OpenAI, APIError, APIConnectionError, AuthenticationError
 
 import config
-
+from retriever import retrieve
 # System prompt template that instructs the LLM to stay strictly
 # within the bounds of the supplied knowledge base.
 SYSTEM_PROMPT_TEMPLATE = """You are the official NASTP Tenant Support Chatbot.
@@ -66,7 +66,11 @@ def get_answer(question: str, knowledge_base: str) -> str:
     """
     client = _build_client()
 
-    system_prompt = SYSTEM_PROMPT_TEMPLATE.format(knowledge=knowledge_base)
+    relevant_knowledge = retrieve(question)
+
+    system_prompt = SYSTEM_PROMPT_TEMPLATE.format(
+    knowledge=relevant_knowledge
+    )
 
     try:
         response = client.chat.completions.create(
