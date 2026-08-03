@@ -78,12 +78,8 @@ def get_answer(question: str, knowledge_base: str) -> str:
             temperature=0.2,
             max_tokens=500,
         )
-    except AuthenticationError as exc:
-        raise ChatbotError("Authentication with the LLM provider failed.") from exc
-    except APIConnectionError as exc:
-        raise ChatbotError("Could not connect to the LLM provider.") from exc
-    except APIError as exc:
-        raise ChatbotError("The LLM provider returned an error.") from exc
+    except Exception as exc:
+    raise ChatbotError(f"LLM Error: {str(exc)}") from exc
 
     answer = response.choices[0].message.content
 
