@@ -13,7 +13,7 @@ Responsibilities:
 
 from contextlib import asynccontextmanager
 from typing import Optional
-
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI, status
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field
@@ -53,7 +53,23 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# ----------------------------------------------------------------
+# CORS Configuration
+# ----------------------------------------------------------------
 
+origins = [
+    "https://nastp-delta.vercel.app",
+    "http://localhost:3000",   # React (optional)
+    "http://localhost:5173",   # Vite (optional)
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 # ----------------------------------------------------------------
 # Pydantic models
 # ----------------------------------------------------------------
