@@ -5,9 +5,19 @@ from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-index = faiss.read_index("vector_db/index.faiss")
+from pathlib import Path
+import pickle
+import faiss
+from sentence_transformers import SentenceTransformer
 
-with open("vector_db/chunks.pkl","rb") as f:
+BASE_DIR = Path(__file__).resolve().parent
+VECTOR_DB = BASE_DIR / "vector_db"
+
+model = SentenceTransformer("all-MiniLM-L6-v2")
+
+index = faiss.read_index(str(VECTOR_DB / "index.faiss"))
+
+with open(VECTOR_DB / "chunks.pkl", "rb") as f:
     chunks = pickle.load(f)
 
 def retrieve(question, top_k=3):
