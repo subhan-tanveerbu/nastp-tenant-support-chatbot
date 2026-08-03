@@ -79,7 +79,7 @@ def get_answer(question: str, knowledge_base: str) -> str:
             max_tokens=500,
         )
     except Exception as exc:
-    raise ChatbotError(f"LLM Error: {str(exc)}") from exc
+        raise ChatbotError(f"LLM Error: {str(exc)}") from exc
 
     answer = response.choices[0].message.content
 
